@@ -5,7 +5,7 @@ This repository holds the implementation of detecting the drivable path in the g
 
 
 ## Team Members:
-* Sparsh Bhogavilli* (sbhogavi@terpmail.umd.edu)
+* <b>Sparsh Bhogavilli</b>* (sbhogavi@terpmail.umd.edu)
 * Adarsh Malapaka* (amalapak@terpmail.umd.edu)
 * Kumara Ritvik Oruganti* (okritvik@terpmail.umd.edu)
 * Sai Sandeep Adapa (sadapa@umd.edu)
