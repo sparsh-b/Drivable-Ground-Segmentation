@@ -124,6 +124,9 @@ Detected Ground (Feet labeled as non-drivable)   |  Detected Ground (Floor-mat l
 ### Image extraction
 - Every 100th frame of each video was extracted to form a total of 1260 images in the dataset.
 
+### Train - Validation - Test Split
+- The obtained 1260 images are randomly split in the ratio of 80-10-10.
+
 ### Data Annotation
 - The tool [Dataloop](https://dataloop.ai/) is used for annotating the ground truth masks on the images.
 
