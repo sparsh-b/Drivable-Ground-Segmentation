@@ -25,11 +25,11 @@ This repository holds the implementation of detecting the drivable path in the g
 
 ### Training Curves
 
-Train Loss v/s Epoch    |  Train IOU v/s Epoch |
+Train Loss v/s Iteration    |  Train IOU v/s Iteration |
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40534801/168428961-2c033e76-cc1c-4369-85c5-62d0e5b3ea99.png" width="90%"> | <img src="https://user-images.githubusercontent.com/40534801/168428928-c37d4d93-c065-4002-8ebd-4b75b6522282.png" width="90%"> 
 
-Validation Loss v/s Epoch    |  Validation IOU v/s Epoch |
+Validation Loss v/s Iteration    |  Validation IOU v/s Iteration |
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/40534801/168428991-ceec26e5-aed2-4878-9afa-50297e43de7e.png" width="90%"> | <img src="https://user-images.githubusercontent.com/40534801/168428974-ed50f9d6-4c23-4d05-ae7d-155892d6449e.png" width="90%"> 
 
